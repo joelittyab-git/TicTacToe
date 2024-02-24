@@ -15,9 +15,6 @@ board = [
 game_status = False           #true if any player has one the game
 current_chance = 1            #increases as each player gets their turn
 
-# method to check if any player has one the game
-def check_winner_status():
-     return ""
 
 # method to prompt user name and information
 def prompt_user_information():
